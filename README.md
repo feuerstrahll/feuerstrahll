@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Applied+ML+Engineer;Interested+in+Representation+Learning;Robust+Deep+Learning+Systems&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
 </p>
-
 <p align="center">
   <b>Computer Vision • NLP • Data Engineering</b>
 </p>
@@ -35,14 +34,6 @@
 - 🎬 **[Recommendation System](https://github.com/feuerstrahll/recommendation-system-movies)** — Hybrid filtering
 - 💬 **RAG Telegram Bot** — LLM + semantic search
 - 🗂️ **[OMNI Protocol Planner](https://github.com/feuerstrahll/OMNI-be-protocol-planner)** — Healthcare backend
-
----
-
-## 📊 Stats
-
-| | |
-|---|---|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feuerstrahll&show_icons=true&hide_border=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feuerstrahll&layout=compact&hide_border=true&theme=default) |
 
 ---
 
