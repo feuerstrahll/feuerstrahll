@@ -1,16 +1,14 @@
-<h1 align="center">Hi, I'm Anastasiia 👋</h1>
+# Hi, I'm Anastasiia 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+NLP;Data+Engineering+%26+Python&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
-</p>
+**Applied ML Engineer | Research Assistant**
 
-<p align="center">
-  <b>4th-year CS student ~ Data Engineering ~ ML/CV/NLP projects</b> ~ 📫 https://t.me/feuerstrahl
-</p>
+*Interested in representation learning, evaluation, and robust deep learning in high-stakes settings*
 
 ---
 
-<p align="center">
+## 🛠️ Tech Stack
+
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
@@ -21,28 +19,30 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 </p>
 
----
-
-### Projects
-
-- 🩻 [Medical Computer Vision](#) — X-ray classification & object detection (completed)
-- 🧠 [Mental Health App](https://github.com/feuerstrahll/mental_health_app) — mood prediction ML + backend
-- 🙂 [Emotion Recognition Benchmarking](#) — CNN vs. transformer detector comparison
-- 🎬 [Movie Recommendation System](https://github.com/feuerstrahll/recommendation-system-movies) — content/collaborative filtering
-- 💬 [RAG Telegram Bot](#) — document-grounded conversational agent
-- 🗂 [OMNI Protocol Planner](https://github.com/feuerstrahll/OMNI-be-protocol-planner) — [one-line description needed]
+PyTorch • TensorFlow • OpenCV • FastAPI • PostgreSQL • scikit-learn
 
 ---
 
-### Currently
+## 📌 Projects
 
-- Working on a startup project involving OCR/LLM pipelines
-- Deep into CV/RAG right now, plus relevant coursework
-- Applying to Master's programmes in AI/ML/Data Engineering, autumn 2027
+- 🩻 **Medical Computer Vision** — CNN classification & detection
+- 🧠 **[Mental Health App](https://github.com/feuerstrahll/mental_health_app)** — PyTorch + FastAPI backend
+- 🙂 **Emotion Recognition** — CNN vs. Transformer benchmarking  
+- 🎬 **[Recommendation System](https://github.com/feuerstrahll/recommendation-system-movies)** — Hybrid filtering
+- 💬 **RAG Telegram Bot** — LLM + semantic search
+- 🗂️ **[OMNI Protocol Planner](https://github.com/feuerstrahll/OMNI-be-protocol-planner)** — Healthcare backend
 
 ---
 
-<p align="center">
+## 📊 Stats
+
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=feuerstrahll&show_icons=true&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feuerstrahll&layout=compact&hide_border=true" height="150" />
 </p>
+
+---
+
+## 📫 Contact
+
+Telegram: [@feuerstrahl](https://t.me/feuerstrahl)
