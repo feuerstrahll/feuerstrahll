@@ -1,25 +1,26 @@
-<h1 align="center">Hi 👋, I'm Anastasiia Putintseva</h1>
+<h1 align="center">Hi, I'm Anastasiia 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Applied+ML+%7C+Computer+Vision+%7C+Deep+Learning;NLP+%26+RAG+%7C+Data+Engineering+%7C+MLOps;Building+research-oriented+and+production-aware+AI+systems&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Science+student+%7C+Data+Engineering+track;Learning+ML%2C+CV+and+NLP+by+building+real+projects;Currently+prepping+for+Master's+applications&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
 </p>
 
 <p align="center">
-  <b>Applied Computer Science student · Data Engineering track · ML/DL/CV/NLP</b>
+  <b>4th-year Applied CS student · Data Engineering major · figuring out ML one project at a time</b>
 </p>
 
 ---
 
-- 🔬 I work on **applied machine learning**, with a focus on computer vision, deep learning, and model evaluation  
-- 🩻 Currently exploring **medical AI and visual recognition systems**  
-- 🤖 Interested in **NLP, RAG-based assistants, and LLM applications**  
-- 🛠 Building ML systems with attention to **data quality, reproducibility, backend integration, and deployment**  
-- 🎓 Preparing for Master's applications in **AI, Machine Learning, Computer Science, and Data Engineering**  
-- 📫 Reach me at **anastasiiaputintseva@gmail.com**
+- 🎓 4th-year student at Financial University (Moscow), majoring in Data Engineering — graduating August 2027
+- 🔬 Spend most of my time on applied ML — computer vision and deep learning mostly, some NLP
+- 🩻 Completed a medical imaging project (X-ray classification, object detection) — my first real hands-on work with messy medical data
+- 🤖 Also messing around with RAG and LLM-based assistants, more as side projects than expertise
+- 🛠 I care more about whether a model actually works and is reproducible than about using the fanciest architecture
+- 📚 Applying to Master's programmes in AI/ML/CS/Data Engineering for autumn 2027 — this GitHub is partly me building a portfolio for that
+- 📫 anastasiiaputintseva@gmail.com
 
 ---
 
-<h3 align="left">🛠 Languages & Tools</h3>
+<h3 align="left">Tools I actually use</h3>
 
 <table>
   <tr>
@@ -62,77 +63,59 @@
   </tr>
 </table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Computer%20Vision-4B32C3?style=for-the-badge&logoColor=white" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logoColor=white" alt="Deep Learning"/>
-  <img src="https://img.shields.io/badge/Medical%20AI-2563EB?style=for-the-badge&logoColor=white" alt="Medical AI"/>
-  <img src="https://img.shields.io/badge/NLP%20%26%20RAG-0F766E?style=for-the-badge&logoColor=white" alt="NLP and RAG"/>
-  <img src="https://img.shields.io/badge/Data%20Engineering-7C3AED?style=for-the-badge&logoColor=white" alt="Data Engineering"/>
-  <img src="https://img.shields.io/badge/MLOps-334155?style=for-the-badge&logoColor=white" alt="MLOps"/>
-</p>
-
 ---
 
-<h3 align="left">📌 Project Areas</h3>
+<h3 align="left">What's in this profile</h3>
 
-| Area | What I build |
+| Area | What I've actually done here |
 |---|---|
-| **Computer Vision** | image classification, object detection, medical image preprocessing |
-| **Deep Learning** | CNNs, transfer learning, model evaluation, benchmarking |
-| **NLP / RAG** | retrieval pipelines, grounded assistants, LLM API integration |
-| **Data Engineering** | data cleaning, preprocessing, validation, reproducible datasets |
-| **ML Backend / MLOps** | FastAPI services, Dockerized apps, model-serving logic |
+| **Computer Vision** | image classification, object detection, medical image preprocessing — mostly course/personal projects |
+| **Deep Learning** | CNNs, transfer learning, model evaluation — learning by comparing approaches rather than following one path |
+| **NLP / RAG** | small retrieval pipelines and LLM API integrations, nothing production-scale yet |
+| **Data Engineering** | data cleaning, preprocessing, building datasets that don't fall apart on the second run |
+| **Backend basics** | enough FastAPI/Docker to wrap a model in something usable, not a backend engineer |
 
 ---
 
-<h3 align="left">🚀 Featured Work</h3>
+<h3 align="left">Projects</h3>
 
-### 🩻 Medical Computer Vision
+### 🩻 Medical Computer Vision (completed)
+X-ray analysis and implant classification — my first real attempt at working with messy medical data, annotation quality issues included.
+**Stack:** PyTorch, torchvision, OpenCV, Albumentations, CVAT
 
-Research-oriented work on X-ray analysis, implant classification, object detection, annotation quality, and dataset cleaning.
-
-**Focus:** computer vision, medical image preprocessing, class imbalance, object detection  
-**Stack:** PyTorch, torchvision, OpenCV, Albumentations, CVAT, COCO evaluation
-
----
-
-### 🧠 Well-being ML Application
-
-ML and backend system for mood prediction, risk analytics, and privacy-aware well-being support.
-
-**Focus:** time-series prediction, interpretable analytics, backend integration  
+### 🧠 Mental Health / Well-being App
+An ML + backend project exploring mood prediction from time-series data, with a focus on keeping things privacy-aware.
 **Stack:** TensorFlow/Keras, TensorFlow Lite, FastAPI, PostgreSQL, Docker
-
----
+🔗 [mental_health_app](https://github.com/feuerstrahll/mental_health_app)
 
 ### 🙂 Emotion Recognition Benchmarking
+Compared CNN-based vs. transformer-based detectors for face detection and emotion classification — mostly to understand where each approach actually breaks.
+**Stack:** PyTorch, YOLO, RF-DETR, Roboflow
 
-Comparison of CNN-based and transformer-based detectors for face detection and emotion classification.
+### 🎬 Movie Recommendation System
+A recommender system project — content-based/collaborative filtering basics, built to actually understand the math instead of just calling a library.
+🔗 [recommendation-system-movies](https://github.com/feuerstrahll/recommendation-system-movies)
 
-**Focus:** model benchmarking, error analysis, class imbalance, evaluation  
-**Stack:** PyTorch, YOLO, RF-DETR, Roboflow, COCO mAP
-
----
-
-### 💬 Retrieval-Based Conversational Agents
-
-Conversational assistant built over internal documentation using document ingestion and grounded response generation.
-
-**Focus:** NLP, RAG, prompt grounding, bot integration  
+### 💬 Retrieval-Based Conversational Agent
+A small Telegram bot that answers questions grounded in internal docs — my first hands-on RAG project.
 **Stack:** Python, Telegram Bot API, Mistral AI
 
----
-
-<h3 align="left">🌱 Current Focus</h3>
-
-- Cleaning and publishing selected Deep Learning and Computer Vision course projects  
-- Building well-documented repositories with reproducible experiments  
-- Improving practical skills in ML evaluation, robustness, data quality, and deployment  
-- Preparing a portfolio for Master's applications in AI, ML, CS, and Data Engineering  
+### 🗂 OMNI — Protocol Planner
+[Short description needed — what problem does this solve?]
+🔗 [OMNI-be-protocol-planner](https://github.com/feuerstrahll/OMNI-be-protocol-planner)
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">Right now</h3>
+
+- Cleaning up old coursework repos so they're actually readable by someone who isn't me
+- Trying to get better at evaluating models properly instead of just chasing accuracy numbers
+- Working on Master's applications for AI/ML/CS/Data Engineering programmes, autumn 2027 intake
+- Slowly learning that "done" and "polished" are different things
+
+---
+
+<h3 align="left">GitHub stats (for what they're worth)</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=feuerstrahll&show_icons=true&hide_border=true" height="160" />
