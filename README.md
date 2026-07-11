@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>4th-year CS student · Data Engineering · ML/CV/NLP projects</b> · 📫 anastasiiaputintseva@gmail.com
+  <b>4th-year CS student ~ Data Engineering ~ ML/CV/NLP projects</b> ~ 📫 https://t.me/feuerstrahl
 </p>
 
 ---
@@ -36,7 +36,8 @@
 
 ### Currently
 
-- Cleaning up old repos so they're readable by someone who isn't me
+- Working on a startup project involving OCR/LLM pipelines
+- Deep into CV/RAG right now, plus relevant coursework
 - Applying to Master's programmes in AI/ML/Data Engineering, autumn 2027
 
 ---
