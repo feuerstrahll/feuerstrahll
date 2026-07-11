@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anastasiia 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=CS+student+%7C+Data+Engineering;Learning+ML%2C+CV+%26+NLP+by+building;Prepping+for+Master's+applications&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+NLP;Data+Engineering+%26+Python&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
 </p>
 
 <p align="center">
