@@ -4,7 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Applied+ML+Engineer;Interested+in+Representation+Learning;Robust+Deep+Learning+Systems&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
 </p>
 <p align="center">
-  <b>Computer Vision • NLP • Data Engineering</b>
+- 🔭 I’m currently exploring sustainable real-world applications of AI 
+- 🌱 I’m learning Deep Learning, Recommender Systems, and Applied Machine Learning  
+- 📫 Reach me on Telegram: @feuerstrahl 
+
 </p>
 
 ---
