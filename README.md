@@ -1,14 +1,18 @@
-# Hi, I'm Anastasiia 👋
+<h1 align="center">Hi, I'm Anastasiia 👋</h1>
 
-**Applied ML Engineer | Research Assistant**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Applied+ML+Engineer;Interested+in+Representation+Learning;Robust+Deep+Learning+Systems&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
+</p>
 
-*Interested in representation learning, evaluation, and robust deep learning in high-stakes settings*
+<p align="center">
+  <b>Computer Vision • NLP • Data Engineering</b>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
@@ -19,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
 </p>
 
-PyTorch • TensorFlow • OpenCV • FastAPI • PostgreSQL • scikit-learn
+<p align="center">PyTorch • TensorFlow • OpenCV • FastAPI • PostgreSQL • scikit-learn</p>
 
 ---
 
@@ -36,13 +40,12 @@ PyTorch • TensorFlow • OpenCV • FastAPI • PostgreSQL • scikit-learn
 
 ## 📊 Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=feuerstrahll&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feuerstrahll&layout=compact&hide_border=true" height="150" />
-</p>
+| | |
+|---|---|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feuerstrahll&show_icons=true&hide_border=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=feuerstrahll&layout=compact&hide_border=true&theme=default) |
 
 ---
 
-## 📫 Contact
-
-Telegram: [@feuerstrahl](https://t.me/feuerstrahl)
+<p align="center">
+  <b>📫 Telegram:</b> <a href="https://t.me/feuerstrahl">@feuerstrahl</a>
+</p>
