@@ -60,10 +60,6 @@
 
   <tr>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/><br>
-      Linux
-    </td>
-    <td align="center" width="90">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/><br>
       Bash
     </td>
