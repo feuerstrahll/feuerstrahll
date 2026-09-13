@@ -65,8 +65,4 @@
 - 💬 **RAG Telegram Bot** — LLM + semantic search
 - 🗂️ **[OMNI Protocol Planner](https://github.com/feuerstrahll/OMNI-be-protocol-planner)** — Healthcare backend
 
----
 
-<p align="center">
-  <b>📫 Telegram:</b> <a href="https://t.me/feuerstrahl">@feuerstrahl</a>
-</p>
