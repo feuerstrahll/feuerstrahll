@@ -7,7 +7,6 @@
   🔭 Learning ML and NLP through practical projects in Document AI and LLM-powered applications.<br>
   🌱 Currently exploring Deep Learning, Recommender Systems, and Applied Machine Learning.
 </p>
----
 
 ## 🛠️ Tech Stack
 
