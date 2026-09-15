@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anastasiia 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Applied+ML+Engineer;Interested+in+Representation+Learning;Robust+Deep+Learning+Systems&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=ML+Engineer;Interested+in+Representation+Learning;Robust+Deep+Learning+Systems&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
 </p>
 <p align="center">
   🔭 Learning ML and NLP through practical projects in Document AI and LLM-powered applications.<br>
