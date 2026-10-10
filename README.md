@@ -39,16 +39,16 @@
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/><br>Hugging Face
+      <img src="https://huggingface.co" width="40" height="40" alt="Hugging Face"/><br>Hugging Face
     </td>
     <td align="center" width="100">
       <img src="https://simpleicons.org" width="40" height="40" alt="spaCy"/><br>spaCy
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/><br>LangChain
+      <img src="https://simpleicons.org" width="40" height="40" alt="LangChain"/><br>LangChain
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/qdrant/DC244C" width="40" height="40" alt="Qdrant"/><br>Qdrant
+      <img src="https://simpleicons.org" width="40" height="40" alt="Qdrant"/><br>Qdrant
     </td>
     <td align="center" width="100">
       <img src="https://simpleicons.org" width="40" height="40" alt="Ollama"/><br>Ollama
