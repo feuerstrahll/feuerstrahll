@@ -12,69 +12,69 @@
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-  <tr>
-    <td align="center" width="14.28%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/><br>
-      Python
-    </td>
-    <td align="center" width="14.28%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42" height="42" alt="PyTorch"/><br>
-      PyTorch
-    </td>
-    <td align="center" width="14.28%">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="42" height="42" alt="Hugging Face"/><br>
-      Hugging Face
-    </td>
-    <td align="center" width="14.28%">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42" height="42" alt="scikit-learn"/><br>
-      scikit-learn
-    </td>
-    <td align="center" width="14.28%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42" height="42" alt="OpenCV"/><br>
-      OpenCV
-    </td>
-    <td align="center" width="14.28%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="42" height="42" alt="Jupyter"/><br>
-      Jupyter
-    </td>
-    <td align="center" width="14.28%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI"/><br>
-      FastAPI
-    </td>
-  </tr>
+<div align="center">
 
+**Core AI & Deep Learning**
+<table>
   <tr>
-    <td align="center" width="14.28%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/><br>
-      PostgreSQL
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
     </td>
-    <td align="center" width="14.28%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker"/><br>
-      Docker
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/><br>PyTorch
     </td>
-    <td align="center" width="14.28%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git"/><br>
-      Git
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br>NumPy
     </td>
-    <td align="center" width="14.28%">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="42" height="42" alt="Bash"/><br>
-      Bash
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/><br>scikit-learn
     </td>
-    <td align="center" width="14.28%">
-      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="42" height="42" alt="LangChain"/><br>
-      LangChain
-    </td>
-    <td align="center" width="14.28%">
-      <img src="https://cdn.simpleicons.org/qdrant/DC244C" width="42" height="42" alt="Qdrant"/><br>
-      Qdrant
-    </td>
-    <td align="center" width="14.28%">
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="42" height="42" alt="TensorBoard"/><br>
-      TensorBoard
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorchlightning/pytorchlightning-original.svg" width="40" height="40" alt="PyTorch Lightning"/><br>Lightning
     </td>
   </tr>
 </table>
+
+**NLP & LLM**
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/><br>Hugging Face
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/><br>LangChain
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/qdrant/DC244C" width="40" height="40" alt="Qdrant"/><br>Qdrant
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter"/><br>Jupyter
+    </td>
+  </tr>
+</table>
+
+**Data, MLOps & Deployment**
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/><br>pandas
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/><br>FastAPI
+    </td>
+    <td align="center" width="100">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Weights_and_Biases_logo.svg" width="40" height="40" alt="Weights & Biases"/><br>W&B
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ### Focus
 
