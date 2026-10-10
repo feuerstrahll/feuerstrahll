@@ -68,9 +68,6 @@
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br>Docker
     </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Weights_and_Biases_logo.svg" width="40" height="40" alt="Weights & Biases"/><br>W&B
-    </td>
   </tr>
 </table>
 
