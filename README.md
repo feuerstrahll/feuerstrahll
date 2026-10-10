@@ -1,11 +1,13 @@
 <h1 align="center">Hi, I'm Anastasiia 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=ML+Engineer;Interested+in+Representation+Learning;Robust+Deep+Learning+Systems&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=ML+%2F+AI+Engineer;RAG+%26+NLP;Document+AI;Learning+by+Building+Things+That+Matter&font=Fira%20Code&center=true&width=780&height=50&duration=4000&pause=1000">
 </p>
+
 <p align="center">
-  🔭 Learning ML and NLP through practical projects in Document AI and LLM-powered applications.<br>
-  🌱 Currently exploring Deep Learning, Recommender Systems, and Applied Machine Learning.
+  🔭 My work explores how data and AI can help people better understand, navigate, and use complex information<br>
+  🌱 Right now, I’m diving deeper into RAG, NLP, retrieval, and LLM-powered applications<br>
+  🌍 I’m drawn to ideas where technology can make knowledge more accessible, useful, and meaningful for people
 </p>
 
 ## 🛠️ Tech Stack
