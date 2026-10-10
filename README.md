@@ -82,11 +82,14 @@
 
 ## 📌 Projects
 
-- 🩻 **Medical Computer Vision** — CNN classification & detection
-- 🧠 **[Mental Health App](https://github.com/feuerstrahll/mental_health_app)** — PyTorch + FastAPI backend
-- 🙂 **Emotion Recognition** — CNN vs. Transformer benchmarking  
-- 🎬 **[Recommendation System](https://github.com/feuerstrahll/recommendation-system-movies)** — Hybrid filtering
-- 💬 **RAG Telegram Bot** — LLM + semantic search
-- 🗂️ **[OMNI Protocol Planner](https://github.com/feuerstrahll/OMNI-be-protocol-planner)** — Healthcare backend
+🤖 AI Agent for Construction & Financial Document Verification — document processing, rule-based validation, LLM tool calling, secure enterprise workflows
+
+🔎 RAG for Technical Documentation — structure-aware chunking, metadata enrichment, hybrid retrieval, retrieval evaluation
+
+🎬 Movie Recommendation System — hybrid recommendation, embeddings, LightFM, FAISS, end-to-end ML pipeline
+
+🗂️ OMNI Protocol Planner — healthcare-oriented backend and structured workflow automation
+
+🧠 Mental Health App — ML-powered application with Python backend
 
 
