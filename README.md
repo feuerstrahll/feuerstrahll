@@ -5,71 +5,98 @@
 </p>
 
 <p align="center">
-  🔭 My work explores how data and AI can help people better understand, navigate, and use complex information<br>
-  🌱 Right now, I’m diving deeper into RAG, NLP, retrieval, and LLM-powered applications<br>
-  🌍 I’m drawn to ideas where technology can make knowledge more accessible, useful, and meaningful for people
+  🔭 I'm an AI & Data Engineer interested in turning complex, unstructured information into reliable and useful systems<br>
+  ⚙️ I work across data engineering, machine learning, and NLP — from data extraction and ETL pipelines to retrieval and LLM-powered applications<br>
+  🌱 Currently exploring RAG, information retrieval, document understanding, and scalable data processing<br>
+  🌍 I believe technology should make knowledge more accessible, meaningful, and useful to people
 </p>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Core AI & Deep Learning**
+
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/><br>Python
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/><br>PyTorch
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/><br>PyTorch
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br>NumPy
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/><br>TensorFlow
     </td>
-    <td align="center" width="100">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/><br>scikit-learn
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/><br>NumPy
     </td>
-    <td align="center" width="100">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face Transformers"/><br>Hugging Face<br>(Transformers)
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="scikit-learn"/><br>scikit-learn
     </td>
   </tr>
 </table>
 
-**NLP & LLM**
+**NLP, LLMs & Retrieval**
+
 <table>
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40" height="40" alt="Hugging Face"/><br>Hugging Face
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/spacy/09A3D5" width="40" height="40" alt="spaCy"/><br>spaCy
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/><br>LangChain
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://cdn.simpleicons.org/qdrant/DC244C" width="40" height="40" alt="Qdrant"/><br>Qdrant
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.simpleicons.org/ollama/000000" width="40" height="40" alt="Ollama"/><br>Ollama
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/ollama/777777" width="40" height="40" alt="Ollama"/><br>Ollama
     </td>
   </tr>
 </table>
 
-**Data, MLOps & Deployment**
+**Data Engineering & Databases**
+
 <table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/><br>pandas
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" width="40" height="40" alt="Apache Spark"/><br>Apache Spark<br>(PySpark)
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br>PostgreSQL
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br>PostgreSQL
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/><br>FastAPI
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/><br>pandas
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br>Docker
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" width="40" height="40" alt="Apache Airflow"/><br>Apache Airflow<br><sub>Learning</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.simpleicons.org/dbt/FF694B" width="40" height="40" alt="dbt"/><br>dbt<br><sub>Learning</sub>
+    </td>
+  </tr>
+</table>
+
+**Backend, MLOps & Tools**
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/><br>FastAPI
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/><br>Docker
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/><br>Git
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" width="40" height="40" alt="pytest"/><br>pytest
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Microsoft Azure"/><br>Azure<br><sub>Academic</sub>
     </td>
   </tr>
 </table>
@@ -78,18 +105,18 @@
 
 ### Focus
 
-`Applied Machine Learning` · `Natural Language Processing` · `LLMs` · `RAG` · `OCR` · `Document AI` · `Computer Vision` · `PDF Processing` · `Information Extraction` · `Semantic Search`
+`Data Engineering` · `Applied Machine Learning` · `NLP & LLMs` · `RAG` · `Information Retrieval` · `Document AI` · `ETL/ELT` · `Data Quality` · `Semantic Search` · `Computer Vision`
 
-## 📌 Projects
+### What I Build
 
-🤖 AI Agent for Construction & Financial Document Verification — document processing, rule-based validation, LLM tool calling, secure enterprise workflows
+- Full-Stack Applications -> Building end-to-end applications, integrating user interfaces, backend services, databases, and AI components.
 
-🔎 RAG for Technical Documentation — structure-aware chunking, metadata enrichment, hybrid retrieval, retrieval evaluation
+- Data Engineering -> Designing data pipelines, ETL workflows, data processing and storage solutions for structured and unstructured data.
 
-🎬 Movie Recommendation System — hybrid recommendation, embeddings, LightFM, FAISS, end-to-end ML pipeline
+- AI & Machine Learning -> Developing and evaluating ML models, recommendation systems, NLP solutions, and LLM-powered applications.
 
-🗂️ OMNI Protocol Planner — healthcare-oriented backend and structured workflow automation
+- Backend & Systems Engineering -> Building APIs, database-backed services, automated workflows, and containerized applications.
 
-🧠 Mental Health App — ML-powered application with Python backend
+- Research & Experimentation -> Investigating model performance, information retrieval, data representation, and computational efficiency.
 
 
